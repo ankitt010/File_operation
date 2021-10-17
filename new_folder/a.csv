@@ -1,0 +1,52 @@
+,file_Name,error_data,error_message,run_date,file_name
+0,,"index                     15
+Week Ending Date    2/1/2021
+Store Number               6
+Support Center             1
+Target Headcount           5
+Name: 0, dtype: object",rows are duplicate based on all columns,2021-09-07 13:50:11.028951,demo.csv
+1,,"index                     16
+Week Ending Date    2/1/2021
+Store Number               6
+Support Center             1
+Target Headcount           5
+Name: 1, dtype: object",rows are duplicate based on all columns,2021-09-07 13:50:11.029951,demo.csv
+2,,"index                     17
+Week Ending Date    2/1/2021
+Store Number               6
+Support Center             1
+Target Headcount           5
+Name: 2, dtype: object",rows are duplicate based on all columns,2021-09-07 13:50:11.029951,demo.csv
+3,,"index                      18
+Week Ending Date    2/22/2021
+Store Number              499
+Support Center              1
+Target Headcount           11
+Name: 0, dtype: object",rows are duplicate based on key fields,2021-09-07 13:50:11.056954,demo.csv
+4,,"index                      19
+Week Ending Date    2/22/2021
+Store Number              499
+Support Center              1
+Target Headcount           12
+Name: 1, dtype: object",rows are duplicate based on key fields,2021-09-07 13:50:11.057952,demo.csv
+5,,"index                       12
+Fiscal Year               2022
+Fiscal Month Number          1
+Banner                     Kay
+PTO Budget Hours        100000
+PTO Budget Dollars     1500000
+Name: 0, dtype: object",rows are duplicate based on all columns,2021-09-07 13:50:11.076955,PTO_Budget_Hours_&_Dollars.csv
+6,,"index                       13
+Fiscal Year               2022
+Fiscal Month Number          1
+Banner                     Kay
+PTO Budget Hours        100000
+PTO Budget Dollars     1500000
+Name: 1, dtype: object",rows are duplicate based on all columns,2021-09-07 13:50:11.077955,PTO_Budget_Hours_&_Dollars.csv
+7,,"index                       14
+Fiscal Year               2022
+Fiscal Month Number          2
+Banner                     Kay
+PTO Budget Hours        125000
+PTO Budget Dollars     1875000
+Name: 2, dtype: object",rows are duplicate based on all columns,2021-09-07 13:50:11.078955,PTO_Budget_Hours_&_Dollars.csv
