@@ -1,6 +1,0 @@
-,file_Name,error_data,error_message,run_date,file_name
-0,,,rows are duplicate based on all columns,2021-09-06 17:33:49.667053,demo.csv
-1,,,rows are duplicate based on all columns,2021-09-06 17:33:49.668053,demo.csv
-2,,,rows are duplicate based on all columns,2021-09-06 17:33:49.669053,demo.csv
-3,,"Week Ending Date  Store Number  Support Center  Target Headcount
-       2/22/2021           499               1                12",rows are duplicate based on key fields,2021-09-06 17:33:49.684053,demo.csv
